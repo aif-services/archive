@@ -12,6 +12,38 @@
       "groups": {
         "at its finest": "/proxy/api/imgur/chapter/ibtad-chapter-1-3gX0m0z"
       }
+    },
+    "2": {
+      "title": "A Dream Come True",
+      "volume": "1",
+      "last_updated": "1766098560",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/ibtad-chapter-2-C3bxWEA"
+      }
+    },
+    "3": {
+      "title": "Burdensome Child",
+      "volume": "1",
+      "last_updated": "1766185015",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/ibtad-chapter-3-1juEcaG"
+      }
+    },
+    "4": {
+      "title": "Last Chance",
+      "volume": "1",
+      "last_updated": "1766789872",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/ibtad-chapter-4-4IwZnAu"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1767999517",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/ibtad-chapter-5-DouI9tF"
+      }
     }
   }
 }

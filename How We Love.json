@@ -4,5 +4,62 @@
   "artist": "Kibi",
   "author": "Kibi",
   "cover": "https://mangadex.org/covers/1c27acc8-b735-4587-a041-e489eba852a5/63529afc-f6ef-443e-bf4a-0c629c7d6d04.jpg.512.jpg",
-  "chapters": {}
+  "chapters": {
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1768870894",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/hwl-chapter-5-eicozjb"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1768870969",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/hwl-chapter-6-hWxh4Xr"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1768870992",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/hwl-chapter-7-mBVDLZH"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1768871023",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/hwl-chapter-8-hFdtRnK"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "",
+      "last_updated": "1768871029",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/hwl-chapter-9-r5CQPkR"
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "",
+      "last_updated": "1768871044",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/hwl-chapter-10-0pWcllm"
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1768871060",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/hwl-chapter-11-qtP52U9"
+      }
+    }
+  }
 }

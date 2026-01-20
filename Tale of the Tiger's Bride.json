@@ -4,5 +4,166 @@
   "artist": "고추참치",
   "author": "고추참치",
   "cover": "https://mangadex.org/covers/f76790b6-9525-4ea9-b8be-126a01e0219d/967d64ee-a239-4320-897e-31b957fce427.png.512.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1768864749",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-1-bAKtYAZ"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1768864769",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-2-zaLeBY7"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1768864933",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-3-BgEwqIr"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1768865098",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-4-VW7vEZl"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1768865396",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-5-lxpfqjQ"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1768865673",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-6-xKpRcch"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1768865899",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-7-wmysa0E"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1768866135",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-8-ijhvPY1"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "",
+      "last_updated": "1768866329",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-9-vkfVQgg"
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "",
+      "last_updated": "1768866648",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-10-QwxZIjV"
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1768866977",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-11-u7HB8wI"
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "",
+      "last_updated": "1768867399",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-12-tEoLpQu"
+      }
+    },
+    "13": {
+      "title": "13",
+      "volume": "",
+      "last_updated": "1768867593",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-13-s2krWZl"
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "",
+      "last_updated": "1768867873",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-14-raeETom"
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "",
+      "last_updated": "1768868120",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-15-Y2seuwT"
+      }
+    },
+    "16": {
+      "title": "16",
+      "volume": "",
+      "last_updated": "1768868349",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-16-SFPxBYQ"
+      }
+    },
+    "17": {
+      "title": "17",
+      "volume": "",
+      "last_updated": "1768868643",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-17-uuIfDMo"
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "",
+      "last_updated": "1768869940",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-18-lBUm163"
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "",
+      "last_updated": "1768870080",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-19-AKuL9ag"
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "",
+      "last_updated": "1768870538",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/chapter-20-BiP6WLC"
+      }
+    }
+  }
 }

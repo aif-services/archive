@@ -4,5 +4,14 @@
   "artist": "치자",
   "author": "치자",
   "cover": "https://cdn.mangaupdates.com/image/i519154.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1774666127",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/UapXS0M"
+      }
+    }
+  }
 }
